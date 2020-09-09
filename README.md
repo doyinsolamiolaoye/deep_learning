@@ -1,2 +1,3 @@
 # deep_learning
- deep_learning alogrithms
+ - deep_learning with pytorch
+ - alogrithms and practice projects. 
